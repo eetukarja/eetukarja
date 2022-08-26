@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eetukarja
 - 👀 I’m interested in Game and mobile app development
-- 🌱 I’m currently learning java
+- 🌱 I have basic knowledge in C# and java
 - 📫 How to reach me: email:eetu.ekku@hotmail.com
 
 <!---
